@@ -9,3 +9,14 @@ bir ədəd daxil edir və proqram həmin ədədin 1-dən 10-a qədər vurma cəd
 -print
 -riyazi əməliyyatlar
 Bu mənim ilk GitHub Python layihəmdir.
+---
+## Python bölünən ədədlər proqramı
+Bu proqram 1-dən 100-ə qədər olan ədədlər arasından 3-ə və ya 5-ə bölünən, 
+lakin 15-ə bölünməyən ədədləri müəyyən edir.
+İstifadə olunan Python anlayışları:
+- for
+- if
+- %
+- and
+- or
+- !=
