@@ -20,3 +20,14 @@ lakin 15-ə bölünməyən ədədləri müəyyən edir.
 - and
 - or
 - !=
+---
+№№ Mağazanın mənfəət və zərər proqramı
+Bu proqram mağazada satılan məhsulun alış və satış qiymətini, həmçinin satılan məhsul sayını qəbul edir.
+Proqram ümumi mənfəəti hesablayır və mağazanın mənfəət və ya zərər etdiyini müəyyən edir.
+İstifadə olunan Python anlayışları:
+- input
+- float
+- int
+- if / else
+- dəyişənlər
+- riyazi əməliyyatlar.
