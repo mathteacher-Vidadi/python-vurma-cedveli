@@ -31,3 +31,20 @@ Proqram ümumi mənfəəti hesablayır və mağazanın mənfəət və ya zərər
 - if / else
 - dəyişənlər
 - riyazi əməliyyatlar.
+
+--
+## Funksiyalarla mağazanın mənfəət və zərər proqramı
+Bu layihədə Python funksiyasından istifadə etməklə mağazanın mənfəət və zərəri hesablanır.
+Proqram:
+-alış qiymətini qəbul edir;
+-satış qiymətini qəbul edir;
+-satılan məhsul sayını qəbul edir;
+-mənfəət və ya zərəri hesablayır;
+-nəticəyə uyğun məlumat göstərir.
+İstifadə olunan Python anlayışları:
+-funksiyalar
+-parametrlər
+-return
+-if/else
+-print
+-riyazi əməliyyatlar
